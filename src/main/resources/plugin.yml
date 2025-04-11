@@ -1,0 +1,4 @@
+name: EndContext
+version: '1.0-SNAPSHOT'
+main: org.agsfefd.endContext.EndContext
+api-version: '1.20'
