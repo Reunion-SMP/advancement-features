@@ -59,10 +59,6 @@
             <id>sonatype</id>
             <url>https://oss.sonatype.org/content/groups/public/</url>
         </repository>
-        <repository>
-            <id>luckperms</id>
-            <url>https://repo.luckperms.net/</url>
-        </repository>
     </repositories>
 
     <dependencies>
@@ -80,3 +76,4 @@
         </dependency>
     </dependencies>
 </project>
+
